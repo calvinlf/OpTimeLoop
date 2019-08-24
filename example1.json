@@ -1,0 +1,23 @@
+{
+  "text": [
+    {
+      "value": "This is what will be shown"
+    },
+    {
+      "value": "this is what will be shown later",
+      "min": {
+        "value": "familiarity",
+        "count": "3"
+      }
+    }
+  ],
+  "options": [
+    {
+      "value": "Go to next",
+      "effect": {
+        "increase": "familiarity",
+        "goto": "example2"
+      }
+    }
+  ]
+}
