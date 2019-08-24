@@ -1,0 +1,23 @@
+{
+  "text": [
+    {
+      "value": "This is where you went."
+    }
+  ],
+  "options": [
+    {
+      "value": "Go back",
+      "effect": {
+        "increase": "familiarity",
+        "goto": "example1"
+      }
+    },
+    {
+      "value": "Go to here",
+      "effect": {
+        "increase": "familiarity",
+        "goto": "example2"
+      }
+    }
+  ]
+}
