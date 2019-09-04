@@ -6,7 +6,7 @@
     {
       "value": "this is what will be shown later",
       "min": {
-        "value": "familiarity",
+        "value": "example1",
         "count": "3"
       }
     }
@@ -15,7 +15,6 @@
     {
       "value": "Go to next",
       "effect": {
-        "increase": "familiarity",
         "goto": "example2"
       }
     }

@@ -8,14 +8,12 @@
     {
       "value": "Go back",
       "effect": {
-        "increase": "familiarity",
         "goto": "example1"
       }
     },
     {
       "value": "Go to here",
       "effect": {
-        "increase": "familiarity",
         "goto": "example2"
       }
     }
