@@ -13,7 +13,6 @@ app.get('/', function (req, res) {
 app.get('/next', function (req, res) {
     res.sendFile(__dirname+'/first.html')
 })
-
 app.listen(3000, () => {
     console.log('Beginning server')
     console.log('    [INFO] Server running on port: ' + 3000)

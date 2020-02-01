@@ -1,0 +1,60 @@
+.bg-dark {
+    background-color: #34495E !important;
+}
+
+.bg-light {
+    background-color: #D8E8F2 !important;
+}
+
+.bg-primary {
+    background-color: rgb(69, 134, 191) !important;
+}
+
+.bg-secondary {
+    background-color: rgb(68, 120, 166) !important;
+}
+
+.bg-info {
+    background-color: rgb(137, 179, 217) !important;
+}
+
+.text-dark {
+    color-color: #34495E !important;
+}
+
+.text-light {
+    color: #D8E8F2 !important;
+}
+
+.text-primary {
+    color: rgb(69, 134, 191) !important;
+}
+
+.text-secondary {
+    color: rgb(68, 120, 166) !important;
+}
+
+.text-info {
+    color: rgb(137, 179, 217) !important;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+html {
+    background: #D8E8F2;
+}
+
+.centered {
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+.spaced {
+    padding-bottom: 100px;
+}
